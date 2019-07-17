@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\CPA _ Work\\facebook-account-kit-android-master\\facebook-account-kit-android-master\\lesson2\\AccountKitLoginSolution\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v15\\values-v15.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\skumar\\.gradle\\caches\\transforms-1\\files-1.1\\account-kit-sdk-4.39.0.aar\\7502223b582efecfc9909eea2abdb377\\res\\values-v15\\values-v15.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,201,333,471,599",
+                        "endLines": "4,7,10,13,16",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "196,328,466,594,732"
+                    }
+                }
+            ]
+        }
+    ]
+}

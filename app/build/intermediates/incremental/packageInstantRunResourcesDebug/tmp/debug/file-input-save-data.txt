@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 16 13:45:15 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\CPA _ Work\\facebook-account-kit-android-master\\facebook-account-kit-android-master\\lesson2\\AccountKitLoginSolution\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=fonts/avenir-black.ttf
+0.set=ASSET
+count=1
